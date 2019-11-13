@@ -9,5 +9,28 @@ body {
     font-family: Georgia, Times, serif;
     color: #fff;
     text-align: center;
-    font-size: 50px;    
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.primary-box {
+    color: #fff;
+    background-color: #272727;
+    border-bottom-color: #4d2d06;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+}
+
+.secondary-box {
+    color: black;
+    background-color: #EDEDEE;
+    border-bottom-color: #4d2d06;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
 }
